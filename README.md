@@ -1,0 +1,2 @@
+# ttys
+tiantianyingshi
